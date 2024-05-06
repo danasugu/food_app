@@ -1,0 +1,162 @@
+name: flutter_app
+description: "A new Flutter project."
+publish_to: 'none' # Remove this line if you wish to publish to pub.dev
+
+version: 1.0.0+1
+
+environment:
+  sdk: '>=3.3.3 <4.0.0'
+
+dependencies:
+  flutter:
+    sdk: flutter
+  cupertino_icons: ^1.0.6
+  google_fonts: ^6.2.1
+
+dev_dependencies:
+  flutter_test:
+    sdk: flutter
+  flutter_lints: ^3.0.0
+  flutter_svg: ^2.0.10+1
+
+flutter:
+  uses-material-design: true
+  assets:
+  - assets/images/image_11.png
+  - assets/vectors/group_231_x2.svg
+  - assets/vectors/ellipse_81_x2.svg
+  - assets/vectors/group_20_x2.svg
+  - assets/vectors/vector_6_x2.svg
+  - assets/vectors/vector_29_x2.svg
+  - assets/vectors/vector_2_x2.svg
+  - assets/images/image_12.png
+  - assets/vectors/group_233_x2.svg
+  - assets/vectors/ellipse_83_x2.svg
+  - assets/vectors/ellipse_9_x2.svg
+  - assets/vectors/vector_19_x2.svg
+  - assets/vectors/group_202_x2.svg
+  - assets/vectors/vector_7_x2.svg
+  - assets/vectors/vector_26_x2.svg
+  - assets/images/image_15.png
+  - assets/images/pngwing_20.png
+  - assets/images/pngwing_16.png
+  - assets/images/pngwing_18.png
+  - assets/images/pngwing_19.png
+  - assets/images/pngwing_17.png
+  - assets/images/pngwing_15.png
+  - assets/images/pngwing_23.png
+  - assets/images/pngwing_12.png
+  - assets/images/pngwing_121.png
+  - assets/images/pngwing_14.png
+  - assets/images/pngwing_21.png
+  - assets/images/image_14.png
+  - assets/vectors/group_331_x2.svg
+  - assets/vectors/ellipse_12_x2.svg
+  - assets/vectors/ellipse_133_x2.svg
+  - assets/vectors/ellipse_102_x2.svg
+  - assets/vectors/group_204_x2.svg
+  - assets/vectors/group_3310_x2.svg
+  - assets/vectors/ellipse_105_x2.svg
+  - assets/vectors/vector_45_x2.svg
+  - assets/vectors/group_334_x2.svg
+  - assets/vectors/group_301_x2.svg
+  - assets/vectors/group_335_x2.svg
+  - assets/vectors/group_332_x2.svg
+  - assets/vectors/group_306_x2.svg
+  - assets/vectors/group_3311_x2.svg
+  - assets/vectors/group_338_x2.svg
+  - assets/vectors/ellipse_104_x2.svg
+  - assets/vectors/group_303_x2.svg
+  - assets/vectors/ellipse_131_x2.svg
+  - assets/vectors/group_305_x2.svg
+  - assets/vectors/ellipse_101_x2.svg
+  - assets/vectors/group_232_x2.svg
+  - assets/vectors/ellipse_132_x2.svg
+  - assets/vectors/group_304_x2.svg
+  - assets/vectors/ellipse_10_x2.svg
+  - assets/vectors/group_33_x2.svg
+  - assets/vectors/ellipse_13_x2.svg
+  - assets/vectors/group_302_x2.svg
+  - assets/vectors/vector_12_x2.svg
+  - assets/vectors/group_333_x2.svg
+  - assets/vectors/group_336_x2.svg
+  - assets/vectors/group_339_x2.svg
+  - assets/vectors/group_337_x2.svg
+  - assets/vectors/container_x2.svg
+  - assets/vectors/ellipse_103_x2.svg
+  - assets/vectors/ellipse_134_x2.svg
+  - assets/vectors/group_30_x2.svg
+  - assets/vectors/line_13_x2.svg
+  - assets/vectors/line_14_x2.svg
+  - assets/images/image_17.jpeg
+  - assets/vectors/group_x2.svg
+  - assets/vectors/group_4_x2.svg
+  - assets/vectors/vector_31_x2.svg
+  - assets/vectors/vector_48_x2.svg
+  - assets/vectors/group_1_x2.svg
+  - assets/images/image_9.png
+  - assets/images/image_12.png
+  - assets/images/image_11.png
+  - assets/images/image_17.jpeg
+  - assets/images/image_1.png
+  - assets/vectors/vector_39_x2.svg
+  - assets/vectors/ellipse_12_x2.svg
+  - assets/vectors/vector_18_x2.svg
+  - assets/vectors/vector_46_x2.svg
+  - assets/vectors/ellipse_1_x2.svg
+  - assets/vectors/vector_28_x2.svg
+  - assets/vectors/vector_25_x2.svg
+  - assets/vectors/ellipse_11_x2.svg
+  - assets/vectors/vector_36_x2.svg
+  - assets/vectors/vector_32_x2.svg
+  - assets/vectors/group_2_x2.svg
+  - assets/vectors/vector_9_x2.svg
+  - assets/vectors/comment_x2.svg
+  - assets/vectors/vector_33_x2.svg
+  - assets/vectors/vector_42_x2.svg
+  - assets/vectors/ellipse_13_x2.svg
+  - assets/vectors/vector_24_x2.svg
+  - assets/vectors/ellipse_2_x2.svg
+  - assets/vectors/vector_22_x2.svg
+  - assets/vectors/vector_37_x2.svg
+  - assets/vectors/group_17_x2.svg
+  - assets/vectors/vector_38_x2.svg
+  - assets/vectors/group_16_x2.svg
+  - assets/images/image_9.png
+  - assets/vectors/vector_47_x2.svg
+  - assets/vectors/vector_15_x2.svg
+  - assets/vectors/ellipse_8_x2.svg
+  - assets/vectors/group_23_x2.svg
+  - assets/vectors/vector_49_x2.svg
+  - assets/vectors/group_203_x2.svg
+  - assets/images/image_1.png
+  - assets/vectors/ellipse_82_x2.svg
+  - assets/vectors/vector_10_x2.svg
+  - assets/vectors/vector_20_x2.svg
+  - assets/vectors/vector_5_x2.svg
+  - assets/vectors/group_201_x2.svg
+  - assets/vectors/group_234_x2.svg
+  - assets/images/image_1.png
+  - assets/images/image_2.png
+  - assets/vectors/container_1_x2.svg
+  - assets/vectors/ellipse_29_x2.svg
+  - assets/images/image_13.png
+  - assets/images/image_141.png
+  - assets/vectors/vector_3_x2.svg
+  - assets/vectors/vector_1_x2.svg
+  - assets/vectors/vector_50_x2.svg
+  - assets/images/image_1.png
+  - assets/images/image_17.jpeg
+  - assets/vectors/subtract_x2.svg
+  - assets/vectors/vector_30_x2.svg
+  - assets/vectors/vector_52_x2.svg
+  - assets/vectors/vector_44_x2.svg
+  - assets/vectors/subtract_3_x2.svg
+  - assets/vectors/sign_out_x2.svg
+  - assets/vectors/subtract_1_x2.svg
+  - assets/vectors/subtract_2_x2.svg
+  - assets/vectors/vector_14_x2.svg
+  - assets/vectors/vector_13_x2.svg
+  - assets/vectors/edit_x2.svg
+  - assets/images/image.png
+
